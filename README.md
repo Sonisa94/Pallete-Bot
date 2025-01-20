@@ -21,4 +21,4 @@
 ***Requirements***:
 - Python
 - Telegram Bot Token
-- SQLite database (In this case, I provide a database sample to test the bot. )
+- SQLite database (In this case, I provide a uncategorized database sample to test the bot. **IMPORTANT**: You'll need to rename the sample file to Paletas.db and need to create a table with "Categorized" colors in database,otherwise, you'll only be able to use the command /random)
