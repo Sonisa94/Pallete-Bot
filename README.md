@@ -1,5 +1,7 @@
 # Pallete-Bot
+   - Live Demo: @chocolorsbot
 
+     
 "Chocolors" is a Telegram bot that helps you create and explore color palettes easily.
 
 ***Features***:
